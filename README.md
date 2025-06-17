@@ -6,7 +6,7 @@ The full details of the assignment, including test cases, analysis, implementati
 
 ## How to View the Assignment
 
-Please download and open the PDF file: `QA Assignment - Bruna Gaino Lipovscek.pdf`.
+Please download and open the PDF file: `QA Assignment - Electric Vehicle Platform.pdf`.
 ---
 
 ## Skills Demonstrated in this Assignment:
